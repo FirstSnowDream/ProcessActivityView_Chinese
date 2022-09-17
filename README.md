@@ -8,4 +8,4 @@
 <br>
 2.下载 <a href="https://github.com/DreamFirstSnow/ProcessActivityView_Chinese/blob/main/ProcessActivityView_lng.ini">ProcessActivityView_lng.ini文件</a>
 <br>
-3.将 <a href="https://github.com/DreamFirstSnow/ProcessActivityView_Chinese/blob/main/ProcessActivityView_lng.ini">ProcessActivityView_lng.ini</a> 解压到 <a href="http://www.nirsoft.net/utils/process_activity_view.html">ProcessActivityView</a>安装目录
+3.将 <a href="https://github.com/DreamFirstSnow/ProcessActivityView_Chinese/blob/main/ProcessActivityView_lng.ini">ProcessActivityView_lng.ini</a> 复制到 <a href="http://www.nirsoft.net/utils/process_activity_view.html">ProcessActivityView</a>安装目录
